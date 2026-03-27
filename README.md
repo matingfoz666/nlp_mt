@@ -17,8 +17,9 @@
 - 因为是只人偶所以不穿鞋子
 ## 我的好朋友 
 1. 女爵（会给蜗擦皮鞋）
-<img src="https://github.com/matingfoz666/nlp_mt/blob/main/%E9%BB%91%E7%8E%AF/%E5%93%88%E5%9F%BA%E8%9C%97.jpg" width="200" alt="xxx形象">
-3. 好朋友2
+<img src="https://github.com/matingfoz666/nlp_mt/blob/main/%E9%BB%91%E7%8E%AF/%E5%A5%B3%E7%88%B5.jpg" width="200" alt="xxx形象">
+
+2. 修女（会给蜗带星光碎片）
 4. ~~好朋友3~~
 <!-- 有序列表，~~ ~~是划掉效果，必须有一项划掉 -->
 
