@@ -1,6 +1,6 @@
 # 哈基蜗的自我介绍
 <!-- 一级标题，替换xxx -->
-<img src="图片地址" width="200" alt="xxx形象">
+<img src=""C:\Users\Lenovo\Desktop\哈基蜗.jpg"" width="200" alt="xxx形象">
 <!-- 图片用HTML标签，width固定200；图片地址可选：网络图片链接/本地图片名（如env_screenshot.png） -->
 
 大家好，我是**xxx**，我的身份是*xxx*。以下是我的自我介绍：
