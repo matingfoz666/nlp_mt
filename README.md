@@ -1,9 +1,7 @@
 # 哈基蜗的自我介绍
-<!-- 一级标题，替换xxx -->
 <img src="https://github.com/matingfoz666/nlp_mt/blob/main/%E9%BB%91%E7%8E%AF/%E5%93%88%E5%9F%BA%E8%9C%97.jpg" width="200" alt="xxx形象">
-<!-- 图片用HTML标签，width固定200；图片地址可选：网络图片链接/本地图片名（如env_screenshot.png） -->
 
-大家好，我是**xxx**，我的身份是*xxx*。以下是我的自我介绍：
+大家好，我是**哈基蜗**，我的身份是*渡夜者*。以下是我的自我介绍：
 <!-- 加粗用** **，斜体用* *，替换xxx -->
 
 ---
