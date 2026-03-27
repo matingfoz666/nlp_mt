@@ -55,4 +55,4 @@ print(np.array([1, 2, 3]) **2)
 其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
 
 ### 我可以在Pycharm上使用我建立的虚拟环境
-<img src="https://github.com/matingfoz666/nlp_mt/blob/main/%E4%BB%BB%E5%8A%A1%E4%B8%80/pycharm.png" width="200" alt="xxx形象">
+<img src="https://github.com/matingfoz666/nlp_mt/blob/main/%E4%BB%BB%E5%8A%A1%E4%B8%80/pycharm.png" width="1600" alt="xxx形象">
