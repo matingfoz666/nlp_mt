@@ -20,8 +20,11 @@
 <img src="https://github.com/matingfoz666/nlp_mt/blob/main/%E9%BB%91%E7%8E%AF/%E5%A5%B3%E7%88%B5.jpg" width="200" alt="xxx形象">
 
 2. 修女（会给蜗带星光碎片）
-4. ~~好朋友3~~
-<!-- 有序列表，~~ ~~是划掉效果，必须有一项划掉 -->
+<img src="https://github.com/matingfoz666/nlp_mt/blob/main/%E9%BB%91%E7%8E%AF/%E4%BF%AE%E5%A5%B3.jpg" width="200" alt="xxx形象">
+
+3. 胖宝宝无赖（会给蜗带特大武器）
+<img src="https://github.com/matingfoz666/nlp_mt/blob/main/%E9%BB%91%E7%8E%AF/%E8%83%96%E5%AE%9D%E5%AE%9D%E6%97%A0%E8%B5%96.jpg" width="200" alt="xxx形象">
+
 
 ### 重要坐标
 <!-- 三级标题 -->
